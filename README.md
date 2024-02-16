@@ -6,14 +6,7 @@ This repository contains my personal solutions to the problem sets of the CS50P 
 
 ## Repository Structure
 
-The repository is structured by week, with each folder containing the solutions to the problem sets for that specific week. Here's an overview of the directory structure:
-```
-├── w0/
-├── w1/
-├── w2/
-├── w3/
-├── ...
-```
+The repository is structured by week, with each folder containing the solutions to the problem sets for that specific week.  
 
 ## Disclaimer
 
