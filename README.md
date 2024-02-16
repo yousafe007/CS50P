@@ -2,8 +2,6 @@
 
 This repository contains my personal solutions to the problem sets of the CS50P course. Each folder is organized by week, reflecting the structure of the course itself.
 
-## Introduction
-
 [CS50P](https://cs50.harvard.edu/python/2022/) is an introduction to programming with Python, offered by Harvard University. This course covers the fundamentals of computer science and programming. The problem sets provided throughout the course are designed to challenge and enhance students' understanding of the material covered.
 
 ## Repository Structure
